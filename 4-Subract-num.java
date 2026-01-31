@@ -11,7 +11,7 @@ public class Main
         System.out.println("Enter second num:");
         int b = sc.nextInt();
         
-        int sum = a-b;
-        System.out.println("Product of two numbers is:" +sum);
+        int diff = a-b;
+        System.out.println("Difference of two numbers is:" +diff);
     }
 }
