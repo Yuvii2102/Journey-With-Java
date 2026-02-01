@@ -7,7 +7,8 @@ public class Main                                                               
                                                                                       Enter a character: A -> 65
     System.out.println("Enter a character:");                                         Enter a character: a -> 97
     char ch = sc.next().charAt(0);
-    int ascii = (int)ch;
+     
+    int ascii = ch;
     System.out.println("ASCII value of char:"+ascii);
 
   }
