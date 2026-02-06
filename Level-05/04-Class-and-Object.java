@@ -1,4 +1,4 @@
-class Student
+class Student                                 // OOP'S Concept          
 {
   String name;
   int age;
@@ -23,3 +23,14 @@ public class Main
     s1.display();                              // Method call 
   } 
 }
+
+
+
+
+
+
+
+
+// Class = blueprint
+// Object = real instance
+// Assign values -> call method
