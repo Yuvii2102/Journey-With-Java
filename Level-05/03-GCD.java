@@ -12,6 +12,6 @@ public class GCD
       a = temp;
     }
     
-    System.out.println("GCD="+a);
+    System.out.println(a);
   }
 }
