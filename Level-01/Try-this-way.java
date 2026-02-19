@@ -10,11 +10,11 @@ public class Main
         int a = sc.nextInt();
         int b = sc.nextInt();
         
-        int divint = a/b;
-        
-        System.out.println("Integer divison="+divint);
+        int sum = a+b;
+        System.out.println("Addition of two numbers is= "+sum);
     }
 }
+
 
 
 import java.util.Scanner;
@@ -30,7 +30,7 @@ public class Main
         System.out.println("Enter the value of b:");
         int b = sc.nextInt();
         
-        int div = a/b;
-        System.out.println("sum of two number is:"+div);
+        int sum = a+b;
+        System.out.println("sum of two number is:"+sum);
     }
 }
