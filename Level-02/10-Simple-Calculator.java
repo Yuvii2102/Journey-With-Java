@@ -17,19 +17,24 @@ public class Main
         switch(op)
         {
         
-        case '+' : System.out.println("Result="+(a+b));
-         break;
+        case '+' : 
+                System.out.println("Result="+(a+b));
+                break;
          
-        case '-' : System.out.println("Result="+(a-b));
-         break;
+        case '-' : 
+                System.out.println("Result="+(a-b));
+                break;
         
-       case '*' : System.out.println("Result="+(a*b));
-         break;
+       case '*' : 
+                System.out.println("Result="+(a*b));
+                break;
        
-       case '/' : System.out.println("Result="+(a/b));
-         break;
+       case '/' : 
+                System.out.println("Result="+(a/b));
+                break;
          
-       default : System.out.println("Invalid operator");
+       default : 
+                System.out.println("Invalid operator");
             
         }
     }
