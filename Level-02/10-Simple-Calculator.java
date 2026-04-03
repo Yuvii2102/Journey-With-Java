@@ -18,19 +18,19 @@ public class Main
         {
         
         case '+' : 
-                System.out.println("Result="+(a+b));
+                System.out.println(a+b);
                 break;
          
         case '-' : 
-                System.out.println("Result="+(a-b));
+                System.out.println(a-b);
                 break;
         
        case '*' : 
-                System.out.println("Result="+(a*b));
+                System.out.println(a*b);
                 break;
        
        case '/' : 
-                System.out.println("Result="+(a/b));
+                System.out.println(a/b);
                 break;
          
        default : 
