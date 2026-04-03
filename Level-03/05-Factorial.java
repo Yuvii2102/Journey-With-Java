@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Main
 {
     public static void main(String args[])
@@ -8,11 +9,11 @@ public class Main
         
         long fact = 1;
         
-        for(int i=1;i<=n;i++)
-        fact = fact * i;
+        for(int i = 1; i <= n; i++) 
         {
-           System.out.println (fact);
-        
+            fact = fact * i;
         }
+        
+        System.out.println(fact);
     }
 }
