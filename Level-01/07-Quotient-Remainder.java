@@ -12,9 +12,9 @@ public class Main
         int b = sc.nextInt();
         
         int quotient = a/b;
-        int remainder= a%b;
-        
         System.out.println("Quotient= "+quotient);
+        
+        int remainder= a%b;
         System.out.println("Remainder= "+remainder);
     }
 }
