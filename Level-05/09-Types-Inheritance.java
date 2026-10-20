@@ -1,4 +1,4 @@
-1) Single Inheritance .                              //  Dog gets eat() from Animal
+1) Single Inheritance                        //  Dog gets eat() from Animal
 
 class Animal                                       
 {
