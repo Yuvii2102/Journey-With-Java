@@ -1,4 +1,4 @@
-1) Single Inheritance                              //  Dog gets eat() from Animal
+1) Single Inheritance .                              //  Dog gets eat() from Animal
 
 class Animal                                       
 {
@@ -42,4 +42,4 @@ class Cat extends Animal {}
 
 Single -> 1 parent
 Multilevel -> chain
-Hierarchical -> 1 parent -> many children  
+Hierarchical -> 1 parent -> many children.
